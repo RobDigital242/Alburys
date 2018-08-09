@@ -1,0 +1,11 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+MHHT,AF,MH-HT,Marsh Harbour - Hopetown,,4,,,
+HTMH,AF,HT-MH,Hopetown - Marsh Harbour,,4,,,
+MHWS,AF,MH-WS,Marsh Harbour - White Sound,,4,,,
+WSMH,AF,WS-MH,White Sound - Marsh Harbour,,4,,,
+MHMOW,AF,MH-MOW,Marsh Harbour - Man-o-War Cay,,4,,,
+MOWMH,AF,MOW-MH,Man-o-War Cay - Marsh Harbour,,4,,,
+MHGC,AF,MH-GC,Marsh Harbour - Guana Cay,,4,,,
+GCMH,AF,GC-MH,Guana Cay - Marsh Harbour,,4,,,
+MHSC,AF,MH-SC,Marsh Harbour - Scotland Cay,,4,,,
+SCMH,AF,SC-MH,Scotland Cay - Marsh Harbour,,4,,,

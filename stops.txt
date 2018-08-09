@@ -1,0 +1,7 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+MARSH_HARBOUR,MH,Marsh Harbour,,1,1,,,0,,America/Nassau,1
+HOPETOWN,HT,Hopetown,,1,1,,,0,,America/Nassau,1
+WHITE_SOUND,WS,White Sound,,1,1,,,0,,America/Nassau,1
+MANOWAR,MOW,Man-o-War Cay,,1,1,,,0,,America/Nassau,1
+GUANA_CAY,GC,Guana Cay,,1,1,,,0,,America/Nassau,1
+SCOT_CAY,SC,Scotland Cay,,1,1,,,0,,America/Nassau,1
