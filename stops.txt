@@ -1,7 +1,12 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-MARSH_HARBOUR,MH,Marsh Harbour,,1,1,,,0,,America/Nassau,1
-HOPETOWN,HT,Hopetown,,1,1,,,0,,America/Nassau,1
-WHITE_SOUND,WS,White Sound,,1,1,,,0,,America/Nassau,1
-MANOWAR,MOW,Man-o-War Cay,,1,1,,,0,,America/Nassau,1
-GUANA_CAY,GC,Guana Cay,,1,1,,,0,,America/Nassau,1
-SCOT_CAY,SC,Scotland Cay,,1,1,,,0,,America/Nassau,1
+MARSH_HARBOUR_TERMINAL,MH,Marsh Harbour Ferry Terminal,,26.5510053,-77.0379165,1,,0,,America/Nassau,1
+HOPE_TOWN_LOWER_DOCK,HTLD,Hope Town Lower Dock,,26.539871200000025,-76.9598997,2,,0,,America/Nassau,1
+HOPE_TOWN_POST_OFFICE,HTPO,Hope Town Post Office Dock,,26.537117100000003,-76.95766750000001,2,,0,,America/Nassau,1
+HOPE_TOWN_LODGE_DOCK,HTLD,Hope Town Lodge Ferry Dock,,26.5360325,-76.958131499999982,,0,,America/Nassau,1
+HOPE_TOWN_LIGHTHOUSE,HTLM,Hope Town Lighthouse Marina,,26.540133400000013,-76.96106580000009,2,,0,,America/Nassau,1
+WHITE_SOUND,WS,White Sound Sea Spray,,26.509040499999987,-76.97507499999995,2,,0,,America/Nassau,1
+MANOWAR_CAY,MOW,Man O War Cay,,26.593813400000005,-77.0054859,3,,0,,America/Nassau,1
+SCOTLAND_CAY,SC,Scotland Cay,,26.645591200000013,-77.07900259999997,4,,0,,America/Nassau,1
+GUANA_CAY,GC,Guana Cay,,26.665902099999997,-77.11130980000002,5,,0,,America/Nassau,1
+BAKERS_BAY_DOC,BKD,Bakers Ferry,,26.68061589999999,-77.13754450000005,6,,0,,America/Nassau,1
+BAKERS_BAY_TERMINAL,BKFT,,26.596825799999998,-77.18820330000005,6,,0,,America/Nassau,1
